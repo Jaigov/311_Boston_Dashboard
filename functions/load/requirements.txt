@@ -1,0 +1,7 @@
+functions-framework
+google-cloud-secret-manager
+google-cloud-storage
+duckdb
+pandas
+gcsfs
+pyarrow

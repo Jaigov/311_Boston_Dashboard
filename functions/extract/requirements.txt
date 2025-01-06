@@ -1,0 +1,9 @@
+google-api-python-client
+functions-framework
+google-cloud-secret-manager
+google-cloud-storage
+requests
+duckdb
+feedparser
+pandas
+beautifulsoup4

@@ -1,0 +1,16 @@
+streamlit 
+matplotlib
+# networkx
+# google-cloud-secret-manager
+numpy
+pandas
+# duckdb
+streamlit>=1.28.0
+duckdb>=0.9.0
+google-cloud-secret-manager>=2.16.0
+google-cloud-aiplatform>=1.36.0
+vertexai>=0.0.1
+networkx>=3.1
+matplotlib>=3.7.1
+plotly
+streamlit_lottie

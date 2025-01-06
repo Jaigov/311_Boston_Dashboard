@@ -1,0 +1,9 @@
+functions-framework==3.*
+scikit-learn==1.5.2  
+pandas
+gcsfs
+pyarrow
+joblib
+google-cloud-storage
+duckdb==1.1.0
+google-cloud-secret-manager

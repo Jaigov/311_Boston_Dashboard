@@ -1,0 +1,7 @@
+google-cloud-storage
+google-cloud-secret-manager
+duckdb==1.1.0
+pandas
+gcsfs
+pyarrow
+scikit-learn==1.5.2 

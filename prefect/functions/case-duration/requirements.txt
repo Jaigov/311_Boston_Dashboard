@@ -1,0 +1,8 @@
+functions-framework==3.*
+google-cloud-storage
+google-cloud-secret-manager
+google-cloud-aiplatform
+duckdb==1.1.0
+pandas
+gcsfs
+pyarrow

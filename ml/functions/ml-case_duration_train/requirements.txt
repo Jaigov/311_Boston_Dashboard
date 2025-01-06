@@ -1,0 +1,8 @@
+functions-framework==3.*
+scikit-learn==1.5.2  # Specify the version from Colab, but candidly pinning this is not necessary
+pandas
+gcsfs
+pyarrow
+joblib
+google-cloud-storage
+google-cloud-aiplatform
